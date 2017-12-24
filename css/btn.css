@@ -1,0 +1,33 @@
+.btn-login,
+.btn-register {
+    border-color: #FCFCFC;
+    width: 200px;
+    font-size: 14px;
+}
+
+.btn-blur {
+    height: 50px;
+    width: 90px;
+    font-size: 19px;
+    opacity: 0.9;
+    -webkit-filter: blur(1px);
+    filter: blur(1px);
+    color: #FF8800;
+}
+
+.btn-blur:hover {
+    color: #FF8800;
+}
+
+.btn-post{
+    background-color: #337AB7;
+}
+
+.btn-cancel{
+    background-color: #5599FF;
+}
+
+.btn-post:hover, .btn-cancel:hover{
+    background-color: #0066FF;
+}
+

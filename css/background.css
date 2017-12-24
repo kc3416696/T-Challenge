@@ -1,0 +1,12 @@
+body{
+    background-image: url("/imgs/grass.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+html {
+  height: 100%;
+}
+body {
+  height: 95%;
+}
