@@ -5,6 +5,13 @@
     font-size: 14px;
 }
 
+
+.btn-go-yard{
+    width: 200px;
+    height: 50px;
+}
+
+/*
 .btn-blur {
     height: 50px;
     width: 90px;
@@ -29,5 +36,4 @@
 
 .btn-post:hover, .btn-cancel:hover{
     background-color: #0066FF;
-}
-
+}*/

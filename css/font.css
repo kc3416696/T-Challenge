@@ -1,0 +1,16 @@
+.team-member{
+    font-size: 16px;
+    color: blue;
+}
+
+.no-team{
+    font-size: 20px;
+    font-weight: bold;
+    color: orange;
+}
+
+.team-name{
+    font-size: 18px;
+    font-weight: bold;
+    color: blue;
+}
